@@ -1,4 +1,3 @@
-theme: jekyll-theme-minimal
 # UFCity
 The UFCity project offers a software ecosystem to efficiently interconnect the city's resources.
 
