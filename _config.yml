@@ -3,20 +3,23 @@ logo: "/assets/img/ufcity-logo.png"
 # show_downloads: true
 description: >
   <b>Building smart cities smartly</b>
-  <h>
-  <br><br>
   <center>
   <a href="http://www.ufc.br"> <img src="/ufcity/assets/img/ufc.jpg"> </a> 
   <a href="http://www.mdcc.ufc.br"> <img src="/ufcity/assets/img/mdcc.png"> </a> 
   <a href="http://www.dc.ufc.br"> <img src="/ufcity/assets/img/computer-department.png"> </a> 
   <a href="http://www.arida.ufc.br"> <img src="/ufcity/assets/img/arida.png"> </a> 
   </center>
-  <br><br>
+  <br>
   <p class="view">
+    <a href=""> <img src="https://img.shields.io/badge/danne.pereira@alu.ufc.br-ED1944?style=social&logo=gmail&logoColor=ED1944"> </a>
+    <br>
+    <a href=""> <img src="https://img.shields.io/badge/0000--0002--8260--5382-A6CE39?style=social&logo=orcid&logoColor=A6CE39"> </a> 
+    <br>
     <a href="https://github.com/makleyston-ufc">
       View all repositories on GitHub
       <small>makleyston/</small>
     </a>
   </p>
+    
 google_analytics: G-FDH6QE2FWG
 theme: jekyll-theme-minimal
