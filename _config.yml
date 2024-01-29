@@ -12,7 +12,12 @@ description: >
   <a href="http://www.arida.ufc.br"> <img src="/ufcity/assets/img/arida.png"> </a> 
   </center>
   <br><br>
-  View the project's repositories on <a href="https://github.com/makleyston-ufc">GitHub</a>
+  <p class="view">
+    <a href="https://github.com/makleyston-ufc">
+      View the Project's repositories on GitHub
+      <small>makleyston/</small>
+    </a>
+  </p>
   <br>
 
 google_analytics: G-FDH6QE2FWG

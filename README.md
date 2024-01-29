@@ -73,7 +73,9 @@ This layer was developed using the [OpenStack]() infrastructure for clouds.
 
 AI-based intelligent processing and decision-making elements play an important role at this layer. To this end, UFCity adopts the [Zun]() tool for managing microservices containers equipped with AI resources. Other tools manage load distribution and elasticity, allowing processing and storage suitable for any city model.
 
-A cloud boot file via OpenStack can be found [HERE]().
+A cloud boot file via OpenStack can be found [HERE](https://github.com/makleyston-ufc/ufcity-cloud-openstack).
+
+[![Cloud computing OpenStack](https://img.shields.io/badge/Edge_module-gray?style=flat&logo=openstack&logoColor=white 'Cloud computing OpenStack')](https://github.com/makleyston-ufc/ufcity-cloud-openstack)
 
 
 ---
