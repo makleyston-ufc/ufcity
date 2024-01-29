@@ -1,17 +1,16 @@
 title: UFCity
-logo: /assets/img/ufcity_logo.png
+logo: "/assets/img/ufcity_logo.png"
 # show_downloads: true
-google_analytics: G-FDH6QE2FWG
-theme: jekyll-theme-minimal
 description: >
   Building smart cities smartly
+  <h>
   <br>
-  View the project's repositories on [GitHub](https://github.com/makleyston-ufc)
+  <a href="http://www.ufc.br"> <img src="https://github.com/makleyston-ufc/ufcity/assets/img/ufc.jpg"> </a> 
+  <a href="http://www.mdcc.ufc.br"> <img src="https://github.com/makleyston-ufc/ufcity/assets/img/mdcc.png"> </a> 
+  <a href="http://www.dc.ufc.br"> <img src="https://github.com/makleyston-ufc/ufcity/assets/img/computer-department.png"> </a> 
+  <a href="http://www.arida.ufc.br"> <img src="https://github.com/makleyston-ufc/ufcity/assets/img/arida.png"> </a> 
   <br>
-  <hline>
+  View the project's repositories on <a href="https://github.com/makleyston-ufc">GitHub</a>
   <br>
-  <a href="http://www.ufc.br"> <img src="https://github.com/makleyston-ufc/ufcity/blob/main/assets/img/ufc.jpg"> </a> 
-  <a href="http://www.mdcc.ufc.br"> <img src="https://github.com/makleyston-ufc/ufcity/blob/main/assets/img/mdcc.png"> </a> 
-  <a href="http://www.dc.ufc.br"> <img src="https://github.com/makleyston-ufc/ufcity/blob/main/assets/img/computer-department.png"> </a> 
-  <a href="http://www.arida.ufc.br"> <img src="https://github.com/makleyston-ufc/ufcity/blob/main/assets/img/arida.png"> </a> 
-
+google_analytics: G-FDH6QE2FWG
+theme: jekyll-theme-minimal
