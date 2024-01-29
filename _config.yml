@@ -1,16 +1,17 @@
 title: UFCity
-logo: "/assets/img/ufcity_logo.png"
+logo: "/assets/img/ufcity_logo.png?raw=true"
 # show_downloads: true
 description: >
-  Building smart cities smartly
+  <b>Building smart cities smartly</b>
   <h>
   <br>
-  <a href="http://www.ufc.br"> <img src="https://github.com/makleyston-ufc/ufcity/assets/img/ufc.jpg"> </a> 
-  <a href="http://www.mdcc.ufc.br"> <img src="https://github.com/makleyston-ufc/ufcity/assets/img/mdcc.png"> </a> 
-  <a href="http://www.dc.ufc.br"> <img src="https://github.com/makleyston-ufc/ufcity/assets/img/computer-department.png"> </a> 
-  <a href="http://www.arida.ufc.br"> <img src="https://github.com/makleyston-ufc/ufcity/assets/img/arida.png"> </a> 
+  <a href="http://www.ufc.br"> <img src="/assets/img/ufc.jpg"> </a> 
+  <a href="http://www.mdcc.ufc.br"> <img src="/assets/img/mdcc.png"> </a> 
+  <a href="http://www.dc.ufc.br"> <img src="/assets/img/computer-department.png"> </a> 
+  <a href="http://www.arida.ufc.br"> <img src="/assets/img/arida.png"> </a> 
   <br>
   View the project's repositories on <a href="https://github.com/makleyston-ufc">GitHub</a>
   <br>
+
 google_analytics: G-FDH6QE2FWG
 theme: jekyll-theme-minimal
