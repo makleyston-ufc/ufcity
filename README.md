@@ -43,7 +43,9 @@ To learn more about these layers and initialize them in your project, see them i
 
 The [Edge Module](https://makleyston-ufc.github.io/ufcity-edge-module/) is a lightweight component developed in C++ and efficient for processing, grouping, filtering, and summarizing data, in addition to introducing contextual elements of space. Because it is developed in C++, it can be run on different devices, such as smartphones and Raspberry Pi.
 
-![Edge module](https://img.shields.io/badge/Edge_module-gray?style=flat&logo=cplusplus&logoColor=white&link=https://makleyston-ufc.github.io/ufcity-edge-module/)
+[![Edge module](https://img.shields.io/badge/Edge_module-gray?style=flat&logo=cplusplus&logoColor=white 'Edge module')](https://makleyston-ufc.github.io/ufcity-edge-module/)
+
+<!-- ![Edge module](https://img.shields.io/badge/Edge_module-gray?style=flat&logo=cplusplus&logoColor=white&link=https://makleyston-ufc.github.io/ufcity-edge-module/) -->
 
 
 ---
@@ -57,7 +59,9 @@ Other components are introduced from their official vendors, such as [Mosquitto]
 To deploy all components easily, use the following [`docker compose`](https://makleyston-ufc.github.io/ufcity-fog-docker/).
 
 
-![Fog computing bash installer](https://img.shields.io/badge/Bash%20installer-gray?style=flat&logo=powershell&logoColor=white&link=https://makleyston-ufc.github.io/ufcity-fog-docker/)
+[![Fog computing bash installer](https://img.shields.io/badge/Bash%20installer-gray?style=flat&logo=powershell&logoColor=white 'Fog computing bash installer')](https://makleyston-ufc.github.io/ufcity-fog-docker/)
+
+<!-- ![Fog computing bash installer](https://img.shields.io/badge/Bash%20installer-gray?style=flat&logo=powershell&logoColor=white&link=https://makleyston-ufc.github.io/ufcity-fog-docker/) -->
 
 
 ---
@@ -76,13 +80,13 @@ A cloud boot file via OpenStack can be found [HERE]().
 
 ## Publications
 
-Waiting for publication data
+Waiting for publication data.
 
 ---
 
 ## Cite us
 
-Waiting for publication data
+Waiting for publication data.
 
 ---
 
