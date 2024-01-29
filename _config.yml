@@ -1,6 +1,17 @@
 title: UFCity
 logo: /assets/img/ufcity_logo.png
-description: Building a smart city
-show_downloads: true
-google_analytics:
+# show_downloads: true
+google_analytics: G-FDH6QE2FWG
 theme: jekyll-theme-minimal
+description: >
+  Building smart cities smartly
+  <br>
+  View the project's repositories on [GitHub](https://github.com/makleyston-ufc)
+  <br>
+  <hline>
+  <br>
+  <a href="http://www.ufc.br"> <img src="https://github.com/makleyston-ufc/ufcity/blob/main/assets/img/ufc.jpg"> </a> 
+  <a href="http://www.mdcc.ufc.br"> <img src="https://github.com/makleyston-ufc/ufcity/blob/main/assets/img/mdcc.png"> </a> 
+  <a href="http://www.dc.ufc.br"> <img src="https://github.com/makleyston-ufc/ufcity/blob/main/assets/img/computer-department.png"> </a> 
+  <a href="http://www.arida.ufc.br"> <img src="https://github.com/makleyston-ufc/ufcity/blob/main/assets/img/arida.png"> </a> 
+
