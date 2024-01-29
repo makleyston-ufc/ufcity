@@ -14,11 +14,9 @@ description: >
   <br><br>
   <p class="view">
     <a href="https://github.com/makleyston-ufc">
-      View the Project's repositories on GitHub
+      View all repositories on GitHub
       <small>makleyston/</small>
     </a>
   </p>
-  <br>
-
 google_analytics: G-FDH6QE2FWG
 theme: jekyll-theme-minimal
