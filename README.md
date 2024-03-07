@@ -4,7 +4,9 @@
 
 The UFCity project offers a software ecosystem to efficiently interconnect the city's resources.
 
-The UFCity platform comprises a computer network architecture comprising three layers: edge, fog, and cloud computing. Each of these layers has software elements dedicated to data processing, storage, and analysis.
+The UFCity platform comprises a computer network architecture comprising three layers: edge, fog, and cloud computing. Each of these layers has software elements dedicated to data processing, storage, and analysis. The following figure shows the UFCity architecture in a block diagram.
+
+![UFCity architecture](/assets/img/ufcity-architecutre.svg "UFCity architecture")
 
 Some features of this platform are:
 * Processing at each layer (de-overloading network nodes).
