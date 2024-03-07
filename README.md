@@ -88,7 +88,7 @@ Waiting for publication data.
 
 ## Cite us
 
-Waiting for publication data.
+[1] Pereira, D.M.G., da S. e Silva, F.J., Neto, C.d.S.S., dos Santos, D.V., Coutinho, L.R., Guedes, A.L.V.: An ontology-based approach to integrate tv and iot middlewares. Multimedia Tools and Applications 80(2), 1813–1837 (Jan 2021). https://doi.org/10.1007/s11042-020-09645-4
 
 ---
 
