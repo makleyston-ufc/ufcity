@@ -82,7 +82,7 @@ A cloud boot file via OpenStack can be found [HERE](https://makleyston-ufc.githu
 
 ## Publications
 
-[1] Pereira, D.M.G., da S. e Silva, F.J., Neto, C.d.S.S., dos Santos, D.V., Coutinho, L.R., Guedes, A.L.V.: An ontology-based approach to integrate tv and iot middlewares. Multimedia Tools and Applications 80(2), 1813–1837 (Jan 2021). https://doi.org/10.1007/s11042-020-09645-4
+[1] Pereira, D., Brayner, A.: Ufcity: A software architecture to create data ecosystem in smart cities. In: 2023 Symposium on Internet of Things (SIoT). pp. 1–5. IEEE, S ̃ao Paulo, Brazil (Aug 2023). https://doi.org/10.1109/SIoT60039.2023.10389861
 
 ---
 
