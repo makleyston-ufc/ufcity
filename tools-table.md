@@ -2,6 +2,7 @@
 **Cloud computing (OpenStack v6.2.0)**
 | Technology                    | Function in the prototype                                        |
 |-------------------------------|------------------------------------------------------------------|
+
 | Zun (v11.1.0.dev5)            | Manage Docker containers                                         |
 | Nova (v18.3.0)                | Manages computing resources                                      |
 | Heat (v20.1.0.dev42)          | Orchestra services                                               |
@@ -22,6 +23,7 @@
 **Fog computing**
 | Technology                    | Function in the prototype                                        |
 |-------------------------------|------------------------------------------------------------------|
+
 | Mosquitto server (v2.0.15)    | MQTT Broker                                                      |
 | Fuseki (SPARQL 1.1)           | SPARQL Server                                                    |
 | Elasticsearch (v8.1.2)        | Log analysis and metrics                                         |
@@ -42,4 +44,5 @@
 **Edge computing**
 | Technology                    | Function in the prototype                                        |
 |-------------------------------|------------------------------------------------------------------|
+
 | Nlohmann (v3.11.2)            | JSON parser                                                      |
