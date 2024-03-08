@@ -10,6 +10,9 @@ The UFCity platform comprises a computer network architecture comprising three l
 	<img src="/ufcity/assets/img/ufcity-architecutre.svg" alt="UFCity architecture" style="max-width: 90%; height: auto;"/>
 </div>
 
+[List of all tools and versions used in this prototype](tools-table.md)
+
+
 Some features of this platform are:
 * Processing at each layer (de-overloading network nodes).
 * Distributed storage.
