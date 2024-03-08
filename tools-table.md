@@ -1,3 +1,4 @@
+
 **Cloud computing (OpenStack v6.2.0)**
 | Technology                    | Function in the prototype                                        |
 |-------------------------------|------------------------------------------------------------------|
