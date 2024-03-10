@@ -83,6 +83,14 @@ A cloud boot file via OpenStack can be found [HERE](https://makleyston-ufc.githu
 
 ---
 
+### Usage scenarios (AI models sample)
+
+We developed some AI models to test a UFCity-based prototype. These models must be included in microservices in UFCity platform.
+
+[![AI models sample](https://img.shields.io/badge/AI_models_sample-42B883?style=for-the-badge&logo=circuitverse&logoColor=white 'Cloud computing OpenStack')](https://makleyston-ufc.github.io/ufcity-ai-models/)
+
+---
+
 ## Publications
 
 [1] Pereira, D., Brayner, A.: Ufcity: A software architecture to create data ecosystem in smart cities. In: 2023 Symposium on Internet of Things (SIoT). pp. 1–5. IEEE, S ̃ao Paulo, Brazil (Aug 2023). https://doi.org/10.1109/SIoT60039.2023.10389861

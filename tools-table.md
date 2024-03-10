@@ -36,8 +36,8 @@
 | Semantic (v0.1)               | Own implementation (semantic annotation)                         |
 | Data flow tracking (v0.1)     | Own implementation (uses Esper CEP to track patterns)            |
 | Paho MQTT (v1.2.1)            | MQTT client used in containers                                   |
-| SnakeYAML (v2.0)              | YAML parser present in containers                                |
-| GSON (v2.10.1)                | JSON parser present in containers                                |
+| SnakeYAML (v2.0)              | YAML parser in containers                                |
+| GSON (v2.10.1)                | JSON parser in containers                                |
 
 
 ### Edge computing
