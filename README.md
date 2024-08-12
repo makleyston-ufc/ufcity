@@ -7,7 +7,7 @@ The UFCity project offers a software ecosystem to efficiently interconnect the c
 The UFCity platform comprises a computer network architecture comprising three layers: edge, fog, and cloud computing. Each of these layers has software elements dedicated to data processing, storage, and analysis. The following figure shows the UFCity architecture in a block diagram.
 
 <div style="text-align: center;">
-	<img src="/ufcity/assets/img/ufcity-architecutre.svg" alt="UFCity architecture" style="max-width: 90%; height: auto;"/>
+	<img src="/ufcity/assets/img/ufcity-architecture.svg" alt="UFCity architecture" style="max-width: 90%; height: auto;"/>
 </div>
 
 [List of all tools and versions used in this prototype](tools-table.md)
@@ -60,7 +60,7 @@ The [Edge Module](https://makleyston-ufc.github.io/ufcity-edge-module/) is a lig
 Fog computing was designed from the perspective of containerized services. Therefore, we adopted Docker to manage these containers.
 In this layer, there are several software components, including those developed within this project: [UFCity-Handler](https://makleyston-ufc.github.io/ufcity-fog-handler/), [UFCity-CEP](https://makleyston-ufc.github.io/ufcity-fog-cep/) and [UFCity-Semantic](https://makleyston-ufc.github.io/ufcity-fog-semantic/).
 
-To deploy all components easily, use the following [`docker compose`](https://makleyston-ufc.github.io/ufcity-fog-docker/).
+To deploy all components easily, use the following [`docker compos`](https://makleyston-ufc.github.io/ufcity-fog-computing/).
 
 [![Fog computing bash installer](https://img.shields.io/badge/Bash%20installer-4D4D4D?style=for-the-badge&logo=powershell&logoColor=white 'Fog computing bash installer')](https://makleyston-ufc.github.io/ufcity-fog-computing/)
 
@@ -70,11 +70,11 @@ To deploy all components easily, use the following [`docker compose`](https://ma
 ### Cloud computing
 
 Cloud computing has extensive knowledge of the city, making it possible to manage resource services across the entire city.
-This layer was developed using the [OpenStack]() infrastructure for clouds.
+This layer was developed using the [OpenStack](https://www.openstack.org/) infrastructure for clouds.
 
 AI-based intelligent processing and decision-making elements play an important role at this layer. To this end, UFCity adopts the [Zun]() tool for managing microservices containers equipped with AI resources. Other tools manage load distribution and elasticity, allowing processing and storage suitable for any city model.
 
-A cloud boot file via OpenStack can be found [HERE](https://makleyston-ufc.github.io/ufcity-cloud-computing/).
+A cloud boot file via OpenStack can be found [HERE](https://makleyston-ufc.github.io/ufcity-cloud-computing/openstack/).
 
 [![Cloud computing OpenStack](https://img.shields.io/badge/UFCity_OpenStack-ED1944?style=for-the-badge&logo=openstack&logoColor=white 'Cloud computing OpenStack')](https://makleyston-ufc.github.io/ufcity-cloud-computing/openstack/)
 
