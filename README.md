@@ -63,7 +63,7 @@ In this layer, there are several software components, including those developed 
 
 To deploy all components easily, use the following [`docker compos`](https://makleyston-ufc.github.io/ufcity-fog-computing/).
 
-[![Fog computing bash installer](https://img.shields.io/badge/Bash%20installer-4D4D4D?style=for-the-badge&logo=powershell&logoColor=white 'Fog computing bash installer')](https://makleyston-ufc.github.io/ufcity-fog-computing/)
+[![Fog computing bash installer](https://img.shields.io/badge/Bash%20installer-4D4D4D?style=for-the-badge&logo=gnubash&logoColor=white 'Fog computing bash installer')](https://makleyston-ufc.github.io/ufcity-fog-computing/)
 
 
 ---
@@ -82,11 +82,13 @@ A cloud boot file via OpenStack can be found [HERE](https://makleyston-ufc.githu
 
 ---
 
-### Usage scenarios (AI models sample)
+### Usage scenarios (AI-equipped microservices samples)
 
-We developed some AI models to test a UFCity-based prototype. These models must be included in microservices in UFCity platform.
+We developed some AI-equipped microservices to test a UFCity-based prototype. 
 
-[![AI models sample](https://img.shields.io/badge/AI_models_sample-42B883?style=for-the-badge&logo=circuitverse&logoColor=white 'Cloud computing OpenStack')](https://makleyston-ufc.github.io/ufcity-cloud-computing/ufcity-ai-models-samples/)
+[![AI models samples](https://img.shields.io/badge/AI_models_samples-42B883?style=for-the-badge&logo=circuitverse&logoColor=white 'ai models samples')](https://makleyston-ufc.github.io/ufcity-cloud-computing/samples/ufcity-ai-models-samples/)
+
+[![AI-equipped microservices samples](https://img.shields.io/badge/AI--equipped_microservices_samples-42B883?style=for-the-badge&logo=docsdotrs&logoColor=white 'Cloud computing OpenStack')](https://github.com/makleyston-ufc/ufcity-cloud-computing/tree/main/samples/ufcity-microservices-samples)
 
 ---
 
