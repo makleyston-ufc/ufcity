@@ -60,11 +60,9 @@ The [Edge Module](https://makleyston-ufc.github.io/ufcity-edge-module/) is a lig
 Fog computing was designed from the perspective of containerized services. Therefore, we adopted Docker to manage these containers.
 In this layer, there are several software components, including those developed within this project: [UFCity-Handler](https://makleyston-ufc.github.io/ufcity-fog-handler/), [UFCity-CEP](https://makleyston-ufc.github.io/ufcity-fog-cep/) and [UFCity-Semantic](https://makleyston-ufc.github.io/ufcity-fog-semantic/).
 
-Other components are introduced from their official vendors, such as [Mosquitto](https://hub.docker.com/_/eclipse-mosquitto), [FluentD](https://hub.docker.com/_/fluentd ), [MongoDB](https://hub.docker.com/_/mongo), [Elasticsearch](https://hub.docker.com/_/elasticsearch) and [Kibana](https://hub. docker.com/_/kibana).
 To deploy all components easily, use the following [`docker compose`](https://makleyston-ufc.github.io/ufcity-fog-docker/).
 
-
-[![Fog computing bash installer](https://img.shields.io/badge/Bash%20installer-4D4D4D?style=for-the-badge&logo=powershell&logoColor=white 'Fog computing bash installer')](https://makleyston-ufc.github.io/ufcity-fog-docker/)
+[![Fog computing bash installer](https://img.shields.io/badge/Bash%20installer-4D4D4D?style=for-the-badge&logo=powershell&logoColor=white 'Fog computing bash installer')](https://makleyston-ufc.github.io/ufcity-fog-computing/)
 
 
 ---
@@ -76,9 +74,9 @@ This layer was developed using the [OpenStack]() infrastructure for clouds.
 
 AI-based intelligent processing and decision-making elements play an important role at this layer. To this end, UFCity adopts the [Zun]() tool for managing microservices containers equipped with AI resources. Other tools manage load distribution and elasticity, allowing processing and storage suitable for any city model.
 
-A cloud boot file via OpenStack can be found [HERE](https://makleyston-ufc.github.io/ufcity-cloud-openstack/).
+A cloud boot file via OpenStack can be found [HERE](https://makleyston-ufc.github.io/ufcity-cloud-computing/).
 
-[![Cloud computing OpenStack](https://img.shields.io/badge/UFCity_OpenStack-ED1944?style=for-the-badge&logo=openstack&logoColor=white 'Cloud computing OpenStack')](https://makleyston-ufc.github.io/ufcity-cloud-openstack/)
+[![Cloud computing OpenStack](https://img.shields.io/badge/UFCity_OpenStack-ED1944?style=for-the-badge&logo=openstack&logoColor=white 'Cloud computing OpenStack')](https://makleyston-ufc.github.io/ufcity-cloud-computing/)
 
 
 ---
@@ -87,7 +85,7 @@ A cloud boot file via OpenStack can be found [HERE](https://makleyston-ufc.githu
 
 We developed some AI models to test a UFCity-based prototype. These models must be included in microservices in UFCity platform.
 
-[![AI models sample](https://img.shields.io/badge/AI_models_sample-42B883?style=for-the-badge&logo=circuitverse&logoColor=white 'Cloud computing OpenStack')](https://makleyston-ufc.github.io/ufcity-ai-models/)
+[![AI models sample](https://img.shields.io/badge/AI_models_sample-42B883?style=for-the-badge&logo=circuitverse&logoColor=white 'Cloud computing OpenStack')](https://makleyston-ufc.github.io/ufcity-cloud-computing/ufcity-ai-models-samples/)
 
 ---
 
