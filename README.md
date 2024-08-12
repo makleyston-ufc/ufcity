@@ -76,7 +76,7 @@ AI-based intelligent processing and decision-making elements play an important r
 
 A cloud boot file via OpenStack can be found [HERE](https://makleyston-ufc.github.io/ufcity-cloud-computing/).
 
-[![Cloud computing OpenStack](https://img.shields.io/badge/UFCity_OpenStack-ED1944?style=for-the-badge&logo=openstack&logoColor=white 'Cloud computing OpenStack')](https://makleyston-ufc.github.io/ufcity-cloud-computing/)
+[![Cloud computing OpenStack](https://img.shields.io/badge/UFCity_OpenStack-ED1944?style=for-the-badge&logo=openstack&logoColor=white 'Cloud computing OpenStack')](https://makleyston-ufc.github.io/ufcity-cloud-computing/openstack/)
 
 
 ---
