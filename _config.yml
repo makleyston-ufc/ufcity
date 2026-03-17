@@ -1,20 +1,16 @@
 layout: default
 # title: UFCity
-logo: "/assets/img/ufcity-logo.png"
+logo: "/assets/img/ufcity-logo-github-removebg.png"
 # show_downloads: true
 description: >
   <b>UFCity | Building smart cities smartly</b>
-  <center>
-  <a href="http://www.ufc.br"> <img src="/ufcity/assets/img/ufc.jpg"> </a> 
-  <a href="http://www.mdcc.ufc.br"> <img src="/ufcity/assets/img/mdcc.png"> </a> 
-  <a href="http://www.dc.ufc.br"> <img src="/ufcity/assets/img/computer-department.png"> </a> 
-  <a href="http://www.arida.ufc.br"> <img src="/ufcity/assets/img/arida.png"> </a> 
-  </center>
+  <div class="institution-logos">
+    <a href="http://www.ufc.br"><img src="/ufcity/assets/img/ufc.jpg" alt="UFC"></a>
+    <a href="http://www.mdcc.ufc.br"><img src="/ufcity/assets/img/mdcc.png" alt="MDCC"></a>
+    <a href="http://www.dc.ufc.br"><img src="/ufcity/assets/img/computer-department.png" alt="Computer Department"></a>
+    <a href="http://www.arida.ufc.br"><img src="/ufcity/assets/img/arida.png" alt="ARIDA"></a>
+  </div>
   <p class="view">
-    <p>
-      <a href="mailto:danne.pereira@alu.ufc.br"> <img src="https://img.shields.io/badge/danne.pereira@alu.ufc.br-ED1944?style=social&logo=gmail&logoColor=ED1944"> </a>
-      <!-- <a href="https://orcid.org/0000-0002-8260-5382"> <img src="https://img.shields.io/badge/0000--0002--8260--5382-A6CE39?style=social&logo=orcid&logoColor=A6CE39"> </a> -->
-    </p>
     <a href="https://github.com/makleyston-ufc">
       View all repositories on GitHub
       <small>makleyston-ufc/</small>
